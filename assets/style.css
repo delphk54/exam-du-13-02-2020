@@ -1,0 +1,27 @@
+
+
+
+/* fond en background */
+
+body{
+    background-image: url(./images/images/fond-opaque.png);
+    
+}
+
+
+/* tailles images et logo */
+.logobas{
+    margin-top: 150vh;
+}
+
+.suscribe{
+    width: 62vh;
+}
+
+.cartes3{
+    width: 62vh;
+}
+
+.images3{
+    width: 140vh;
+}
