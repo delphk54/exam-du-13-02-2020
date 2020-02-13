@@ -11,7 +11,7 @@ body{
 
 /* tailles images et logo */
 .logobas{
-    margin-top: 150vh;
+    margin-top: 90vh;
 }
 
 .suscribe{
@@ -23,5 +23,17 @@ body{
 }
 
 .images3{
-    width: 140vh;
+    width: 125vh;
+}
+.ben{
+    width: 28vh;
+}
+
+.louis{
+    width: 28vh;
+   margin-left: 80px;
+}
+
+.doublebas{
+    width: 200%;
 }
